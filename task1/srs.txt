@@ -1,0 +1,72 @@
+STEP-WISE DESCRIPTION
+
+Step 1: Browse and Select
+The first step for the users would be to browse and select the desired food items from the app's menu. Users can browse through the different categories of food available such as Indian, Chinese, Italian, etc. and select the dish they wish to order.
+
+Step 2: Customize and Checkout
+Once the user has selected their desired food items, they can customize their order by adding any specific instructions, such as extra toppings or sauce, and then proceed to checkout. The user will be required to provide their delivery address and payment information at this stage.
+
+Step 3: Track and Delivery
+After placing the order, the user will receive real-time updates on their order's status, including order preparation, pickup, and delivery time. The user can also track the delivery person's location and estimated arrival time on the app. Once the food is delivered, the user can provide feedback and rate the service.
+
+SAMMARY OF YOUR TASK
+	In summary, the food delivery app's three-step process involves browsing and selecting food items, customizing the order, and tracking the delivery status until it reaches the user.
+INTRODUCTION
+
+A food delivery app is a digital platform that allows users to order food from their favorite restaurants or food outlets and have it delivered directly to their doorstep. These apps provide users with a wide range of food options to choose from and offer a convenient and hassle-free way to order food. With the growing popularity of food delivery apps, many restaurants and food outlets have partnered with these apps to expand their reach and offer their services to a wider audience. These apps have become an essential part of modern-day living, making it easy for people to enjoy their favorite meals without having to leave the comfort of their homes.
+
+FUNCTIONAL REQUIREMENT 
+
+User registration and login: Users should be able to create an account on the app and log in with their credentials to access the app's features.
+
+Menu and restaurant listing: The app should have a comprehensive listing of all the restaurants and food outlets available in the user's area, along with their menus and pricing.
+
+Search and filter: Users should be able to search for specific restaurants or food items and filter results based on criteria such as cuisine type, price, rating, etc.
+Order placement and tracking: Users should be able to place orders for food items and track the status of their orders in real-time.
+
+Payment gateway integration: The app should support multiple payment options, including credit/debit cards, mobile wallets, net banking, etc.
+
+Ratings and reviews: Users should be able to rate and review restaurants and food items, which can help other users make informed decisions.
+
+Push notifications: The app should send push notifications to users regarding order updates, promotional offers, and other relevant information.
+
+Customer support: The app should provide users with customer support channels such as chat, email, or phone support to address any issues or queries.
+
+Order history and reordering: Users should be able to view their order history and reorder previously ordered items with ease.
+Delivery management: The app should enable delivery persons to manage their delivery assignments, track delivery status, and provide delivery confirmation
+
+NON FUNCTIONAL REQUIREMENT:
+
+Performance: The app should be fast and responsive, with minimal lag time between actions. It should also be able to handle a high volume of orders without crashing.
+
+Security: The app should be secure, with measures in place to protect users' personal and financial information. It should also comply with relevant data protection laws and regulations.
+
+User experience: The app should be intuitive and easy to use, with clear navigation and a clean interface. It should also provide users with relevant information, such as estimated delivery times and order status updates.
+
+Reliability: The app should be reliable, with minimal downtime and no unexpected errors or crashes. It should also be able to recover quickly from any outages or other issues.
+
+Scalability: The app should be able to handle a growing user base and increasing demand without any major performance issues or disruptions
+CONSTRAINS:
+
+Technical constraints: The app needs to be built using appropriate technologies and platforms that can support its functionality and scalability. For example, the app might need to integrate with payment gateways, location-based services, and real-time tracking systems.
+
+Resource constraints: The development and maintenance of the app require significant financial and human resources, including developers, designers, testers, and support staff. The app also requires adequate server and storage infrastructure to handle user data and support its features.
+
+Regulatory constraints: The app needs to comply with various regulations and standards, such as data privacy, cyber security, and food safety regulations. This might involve obtaining necessary licenses and certifications, implementing appropriate security measures, and complying with health and safety guidelines.
+
+ASSUMPTION AND DEPENDENCIES:
+
+Assumptions about user behavior: The app assumes that users will be willing to use their smartphones to order food and that they will be comfortable using the app to navigate the menu, place orders, and make payments.
+
+Assumptions about infrastructure: The app assumes that there will be adequate network coverage and internet connectivity for users to access the app from their devices.
+
+Assumptions about restaurants: The app assumes that there will be a sufficient number of partner restaurants willing to participate in the program and provide timely and quality service to users.
+
+Assumptions about delivery personnel: The app assumes that there will be a sufficient number of delivery personnel available to deliver orders to users, and that they will be able to follow instructions and meet delivery deadlines.
+
+Dependencies on third-party services: The app relies on third-party services such as payment gateways, location-based services, and real-time tracking systems. The app's functionality and performance are dependent on the availability and reliability of these services.
+
+
+
+
+ 
